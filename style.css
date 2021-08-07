@@ -1,0 +1,42 @@
+#body_background{
+    background-image: url("https://wallpapercave.com/wp/wp2496926.jpg");
+    background-position: center;
+    background-size: cover; 
+ }
+ .title_1{
+     font-family: 'Secular One', sans-serif;
+     color: chartreuse;  
+ }
+ .span_1{
+     font-family: 'Secular One', sans-serif;
+     color: chartreuse;
+     font-size:30px;  
+ }
+ #button_1{
+   background-color: chartreuse;
+   margin-left: 30px;
+   font-family: 'Secular One', sans-serif;
+ }
+ #button_1:hover{
+     cursor: pointer;
+ }
+ #button_2{
+     background-color: chartreuse;
+     margin-left: 30px;
+     font-family: 'Secular One', sans-serif;
+   }
+   #button_2:hover{
+       cursor: pointer;
+   }
+ .span_2{
+     font-family: 'Secular One', sans-serif;
+     color: chartreuse;
+     font-size:30px; 
+ } 
+ .divput1{
+     width: 49%;
+    margin-left:500px;
+     }
+ .divput{
+     width: 49%;
+ }
